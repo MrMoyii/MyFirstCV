@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif, monospace;
+}
+html{
+    background-color: #939da7;
+}
+.general {
+    margin: auto;
+    width: 900px;
+    height: 900px;
+    background-color: red;
+}
+
+.lado-left{
+    float: left;
+    width: 300px;
+    height: 900px;
+    background-color: #2a3b47;
+    font-size: 15px;
+}
+
+.lado-right{
+    float: right;
+    width: 600px;
+    height: 900px;
+    background-color: white;
+}
+
+.img-conteiner{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.img-cv{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: white solid 2px;
+    box-shadow: inset -1px 3px 8px 5px #000000, 2px 4px 16px 0px #000000, 4px 4px 13px 5px rgba(0,0,0,0);
+}
+
+.contacto{
+    margin: 20px
+}
+.Fecha-nacimiento{
+    margin: 20px;
+}
+.Redes-Sociales{
+    margin: 20px;
+}
+
+.lado-left section h2{
+    color: #92A1B0;
+}
+.lado-left section p{
+    color: white;
+    margin: 3px;
+}
+
+.Redes-Sociales img{
+    width: 25px;
+    border-radius: 20%;
+    
+}
+.Redes-Sociales a{
+    color: white;
+    text-decoration: none;
+    padding-left: 7px;
+}
+
+.conteiner-redes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    margin: 5px 0;
+
+}
+
+.nombre h1{
+    padding: 30px 20px 0px 30px;
+    font-size: 35px;
+}
+.nombre p{
+    padding: 10px 20px 10px 30px;
+    font-size: 15px;
+    color: #939da7;
+}
+.educacion, .proyectos, .habilidades {
+    font-size: 15px;
+    padding: 10px 10px 10px 30px;
+}
+.educacion p, .proyectos p, .habilidades p{
+    font-size: 15px;
+    color: #939da7;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+.habilidades{
+    padding-right: 80px;
+}
+.imgs-habilidades{
+    display: flex;
+    justify-content: space-between;
+
+}
+.javascript{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.HTML{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.CSS{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.React{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.Redux{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.Node{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
+.Git{
+    display: block;
+    padding: 0 10px;
+    border-radius: 7%;
+    background-color: #92A1B0;
+}
