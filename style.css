@@ -109,43 +109,7 @@ html{
     justify-content: space-between;
 
 }
-.javascript{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.HTML{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.CSS{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.React{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.Redux{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.Node{
-    display: block;
-    padding: 0 10px;
-    border-radius: 7%;
-    background-color: #92A1B0;
-}
-.Git{
+.img-habilidad {
     display: block;
     padding: 0 10px;
     border-radius: 7%;
